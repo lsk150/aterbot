@@ -2,10 +2,12 @@
 	"compilerOptions": {
 		"strict": true,
 
-		"module": "NodeNext",
 
 		"noEmit": true,
 		"resolveJsonModule": true,
 		"allowImportingTsExtensions": true
+		
+		"esModuleInterop": true,
+    	"module": "commonjs",
 	}
 }
