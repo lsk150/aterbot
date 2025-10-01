@@ -1,11 +1,9 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
-		"username": "Please enter the bot's username you want"
+		"host": "pdf.play.hosting",
+		"port": "",
+		"username": "Jungcooked"
 	},
-	
-	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
 	"logLevel": ["error", "log", "debug"],
 	"action": {
 		"commands": ["forward", "back", "left", "right", "jump"],
